@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Our Mission
 permalink: "/mission/"
 image: assets/images/screenshot.png
 ---
