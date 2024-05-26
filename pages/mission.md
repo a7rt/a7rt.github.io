@@ -11,7 +11,11 @@ Our mission is to empower organizations with the insights, tools, and on-demand 
 
 Leveraging our deep expertise in data science, organizational psychology, and virtual facilitation, we offer a suite of services tailored to the needs of modern businesses:
 
-	On-Demand Virtual Teams: Access pre-vetted, specialized talent to augment your remote workforce as needed.
-	Virtual Collaboration Platforms: Implement seamless virtual meeting and project management tools for enhanced productivity.
-	Remote Work Optimization: Analyze workforce data to identify areas for improving remote employee engagement and performance.
-	Virtual Facilitation Training: Equip your leaders with the skills to design and deliver impactful virtual experiences.
+-> On-Demand Virtual Teams: Access pre-vetted, specialized talent to augment your remote workforce as needed.
+
+-> Virtual Collaboration Platforms: Implement seamless virtual meeting and project management tools for enhanced productivity.
+
+-> Remote Work Optimization: Analyze workforce data to identify areas for improving remote employee engagement and performance.
+
+-> Virtual Facilitation Training: Equip your leaders with the skills to design and deliver impactful virtual experiences.
+
