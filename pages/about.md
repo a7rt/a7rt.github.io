@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: "/about/"
-image: assets/images/Logo-1280x700.png
+image: assets/images/Logo-1280x600.png
 ---
 
 Our multidisciplinary team of data scientists, management consultants, and industry specialists begin by conducting a comprehensive assessment of our clients' businesses. We leverage cutting-edge data mining, predictive modelling, and scenario analysis techniques to uncover the hidden drivers of performance across every facet of the organization. 
