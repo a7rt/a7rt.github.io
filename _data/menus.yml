@@ -7,6 +7,12 @@ topmenu:
 - title: About
   url: "about/"
 
+  - title: Our Mission
+  url: "mission/"
+
+  - title: Products & Services
+  url: "products_services/"
+
 - title: Contact
   url: "contact/"
 
