@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: "/about/"
+title: Products and Services
+permalink: "/products_services/"
 image: assets/images/screenshot.png
 ---
 
