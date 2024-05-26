@@ -7,10 +7,10 @@ topmenu:
 - title: About
   url: "about/"
 
-  - title: Our Mission
+- title: Our Mission
   url: "mission/"
 
-  - title: Products & Services
+- title: Products & Services
   url: "products_services/"
 
 - title: Contact
