@@ -5,11 +5,13 @@ permalink: "/about/"
 image: assets/images/screenshot.png
 ---
 
-This website is a demonstration to see **Affiliates Jekyll theme** in action. 
+In the new era of work, remote and hybrid arrangements are here to stay. At A.R.T. Insights, we believe this shift presents a world of opportunities to build high-performing, globally dispersed teams.
 
-The theme is compatible with Github pages. This demo is created with Github Pages and hosted with Github. 
+Our mission is to empower organizations with the insights, tools, and on-demand talent to thrive in the virtual workplace. Whether you need to quickly scale up your remote workforce, facilitate engaging online collaboration, or drive productivity across distributed teams, we have the solutions to make it happen.
 
-Everything is ready for your quick setup: Blog, Categories, About, Privacy Policy, Terms of Use, Contact form, Mailchimp
+Leveraging our deep expertise in data science, organizational psychology, and virtual facilitation, we offer a suite of services tailored to the needs of modern businesses:
 
-[Get it here](https://bootstrapstarter.com/jekyll-theme-memoirs/)
-
+	On-Demand Virtual Teams: Access pre-vetted, specialized talent to augment your remote workforce as needed.
+	Virtual Collaboration Platforms: Implement seamless virtual meeting and project management tools for enhanced productivity.
+	Remote Work Optimization: Analyze workforce data to identify areas for improving remote employee engagement and performance.
+	Virtual Facilitation Training: Equip your leaders with the skills to design and deliver impactful virtual experiences.
